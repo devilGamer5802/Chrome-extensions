@@ -36,5 +36,4 @@ This project is open source, and contributions are welcome! If you have an idea 
 
 ---
 
-#harshaniltuti
-# Chrome-extensions
+# harshaniltuti
