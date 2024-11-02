@@ -1,4 +1,3 @@
-Here’s an updated README with icon suggestions and a note on open-source contribution:
 
 ---
 
